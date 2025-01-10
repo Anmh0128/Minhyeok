@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhyeok An</h1>
 <h3 align="center">A passionate Computer Engineering Student from South Korea</h3>
+I have a great interest in Computer Architecture and Verilog systems using Arduino. I learn from my mistakes and always try to improve from it. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
