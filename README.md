@@ -3,7 +3,8 @@
 I have a great interest in Computer Architecture and Verilog systems using Arduino. I learn from my mistakes and always try to improve from it. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
 
 <h1 align="center">Education</h1>
-<h3 align="center">York University - Computer Engineer</h3>
+<h3 align="center">York University - Computer Engineering</h3>
+As an engineering student, I gained experience in projects in both software and hardware. I was willing to learn from both of these courses so I took the opportunity to gain some experiences from them and was willing to learn more related.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
