@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Computer Engineering Student from South Korea</h3>
 I have a great interest in Computer Architecture and Verilog systems using Arduino. I learn from my mistakes and always try to improve from it. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
 
+<h1 align="center">Education</h1>
+York University - Computer Engineer
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmh_0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmh_0128" height="30" width="40" /></a>
