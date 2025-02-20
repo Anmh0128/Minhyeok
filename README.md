@@ -4,7 +4,7 @@ I have a great interest in Computer Architecture and Verilog systems using Ardui
 
 <h2 align="center">Education</h2>
 <h3 align="center">York University - Computer Engineering</h3>
-As an engineering student, I gained experience in projects in both software and hardware. I was willing to learn from both of these courses so I took the opportunity to gain some experiences from them and was willing to learn more related.
+As an engineering student, I gained experience in projects in both software and hardware. I was willing to learn from both of these courses so I took the opportunity to gain some experiences from them and was willing to learn more related. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
